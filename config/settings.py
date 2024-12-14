@@ -13,6 +13,7 @@ SECRET_KEY = "django-insecure-m5+9@3(67+ek-0f9&-7&av^rmfuubuux$seye^0ptcagmspr!m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
+# ALLOWED_HOSTS = ['todo-web-django-apis.onrender.com']
 ALLOWED_HOSTS = ['*']
 
 
@@ -89,7 +90,7 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',  
     'http://127.0.0.1:3000',
-    'https://todowebapp-orcin.vercel.app' , 
+    'https://todowebapp-orcin.vercel.app', 
 ]
 
 
