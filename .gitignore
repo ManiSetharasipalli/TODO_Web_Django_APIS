@@ -19,9 +19,9 @@ env/
 # .env files for sensitive information (like API keys, passwords, etc.)
 .env
 
-# # Static files (for production)
-# staticfiles/
-# static/
+# Static files (for production)
+staticfiles/
+static/
 
 # Media files (user-uploaded content)
 media/
