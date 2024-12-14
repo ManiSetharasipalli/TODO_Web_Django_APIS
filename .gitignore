@@ -1,0 +1,47 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+
+# If you're using a virtual environment
+venv/
+env/
+
+
+# .env files for sensitive information (like API keys, passwords, etc.)
+.env
+
+# Static files (for production)
+staticfiles/
+static/
+
+# Media files (user-uploaded content)
+media/
+
+# Coverage reports
+.coverage
+*.coveragerc
+
+# IDE/editor specific files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Build/packaging files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Django migrations
+migrations/
+
+
