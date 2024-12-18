@@ -3,13 +3,13 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# # Django stuff:
-# *.log
-# *.pot
-# *.pyc
-# *.pyo
-# *.sqlite3
-# db.sqlite3
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
 
 # If you're using a virtual environment
 venv/
