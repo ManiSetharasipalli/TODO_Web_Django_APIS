@@ -36,7 +36,7 @@ During the development of this project, I learned:
 ### Installation
 1. Clone the repository
 ```bash
-git clone (https://github.com/ManiSetharasipalli/TODO_Web_Django_APIS.git)
+git clone https://github.com/ManiSetharasipalli/TODO_Web_Django_APIS.git
 ```
 
 2. Create a virtual environment
